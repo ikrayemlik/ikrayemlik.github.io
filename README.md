@@ -2,11 +2,7 @@
 
 Türkçe ve İngilizce kişisel portfolyo. HTML, CSS ve JavaScript kullanır; kurulum veya derleme gerektirmez.
 
-## Bilgisayarda açma
 
-`index.html` dosyasına çift tıklayın. VS Code içinde düzenlemek için bu klasörü açın. İsterseniz Live Server eklentisi ile çalıştırın.
-
-Python yüklüyse klasörde terminal açıp `python -m http.server 8000` çalıştırın ve `http://localhost:8000` adresine gidin.
 
 ## Dosyalar
 
